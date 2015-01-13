@@ -1,0 +1,25 @@
+.darkRedBackground{
+	background-color: #5c0d00;
+	color:white;
+}
+
+.whiteBackground{
+	background-color: white;
+}
+
+.noPaddingLeft{
+	padding-left: 0px !important;
+}
+
+.noPaddingRight{
+	padding-right: 0px;
+}
+
+.p2Indent{
+	text-indent: 2em;
+}
+
+
+body{
+	background-color: #6e2818 !important;
+}
